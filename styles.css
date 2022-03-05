@@ -58,7 +58,7 @@ li {
 }
 
 .checked:after {
-    content: "(remove)";
+    content: "(CLICK TO REMOVE)";
     color: tomato;
     text-align: right;
 }
